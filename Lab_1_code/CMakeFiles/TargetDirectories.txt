@@ -1,0 +1,6 @@
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/realclean.dir
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/extra-clean.dir
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/tarfile.dir
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/Lab_1_code.elf.dir
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/edit_cache.dir
+/home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/CMakeFiles/rebuild_cache.dir

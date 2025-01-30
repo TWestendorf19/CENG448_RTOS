@@ -1,0 +1,1 @@
+/usr/bin/arm-none-eabi-gcc -Wl,-gc-sections,--print-memory-usage -mcpu=cortex-m3 -mthumb -mthumb-interwork -T /home/student/s7460176/CENG448/CENG448_RTOS/Lab_1_code/src/gcc_arm.ld --specs=nosys.specs -nostartfiles CMakeFiles/Lab_1_code.elf.dir/src/main.c.obj CMakeFiles/Lab_1_code.elf.dir/src/startup_ARMCM3.S.obj CMakeFiles/Lab_1_code.elf.dir/src/uart.c.obj -o bin/Lab_1_code.elf 
